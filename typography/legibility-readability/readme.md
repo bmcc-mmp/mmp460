@@ -1,1 +1,1 @@
-https://bmcc-mmp.github.io/mmp460/typography/legibility-readability/legibility-readability.html
+https://bmcc-mmp.github.io/mmp460/typography/legibility-readability/LegibilityReadability.html
