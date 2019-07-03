@@ -1,0 +1,160 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0px;
+}
+html {
+	font-size: 100%;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 62.5%;
+	margin-left: 50px;
+	margin-top: 0px;
+	width: 800px;
+}
+p, table {
+	font-size: 1.4em;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+td {
+	padding: 5px;
+	vertical-align: top;
+}
+h1 {
+	font-size: 1.8em;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: #000000;
+	padding-top: 20px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+}
+.red {
+	color: #990000;
+}
+h2 {
+	font-size: 1.6em;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+.indent {
+	float: left;
+	margin-right: 40px;
+}
+li {
+	margin-bottom: 7px;
+	font-size: 1.4em;
+}
+h3 {
+	font-size: 1.4em;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#container {
+	background-color: #CCCCCC;
+	height: 50px;
+	margin-top: 30px;
+	padding-left: 10px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+
+img {
+	margin: 20px;
+}
+.lowback {
+	background-color: #333333;
+	margin: 40px;
+	padding: 10px;
+}
+.highback {
+	background-color: #CCCCCC;
+	margin: 40px;
+	padding: 10px;
+}
+.negative {
+	color: #FFFFFF;
+	background-color: #333333;
+	margin: 40px;
+	padding: 10px;
+}
+.justified {
+	text-align: justify;
+}
+.undeline {
+	text-decoration: underline;
+}
+.tight {
+	letter-spacing: -0.1em;
+	word-spacing: -0.1em;
+	line-height: 10px;
+}
+.loose {
+	line-height: 1.2em;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+}
+.exleading {
+	line-height: 1.5em;
+}
+.bigger {
+	font-size: larger;
+}
+.smaller {
+	font-size: smaller;
+}
+.justified {
+	text-align: justify;
+}
+.right {
+	text-align: right;
+}
+.center {
+	text-align: center;
+}
+.style1 {font-family: Impact}
+.style2 {font-family: Didot}
+.style3 {font-family: Arial, Helvetica, sans-serif; }.times {
+	font-family: "Times New Roman", Times, serif;
+}
+.measure {
+	width: 500px;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+.word-space {
+	word-spacing: 2em;
+}
+.letterspace {
+	letter-spacing: -0.2em;
+}
+.letterspaceLoose {
+	letter-spacing: 0.3em;
+}
+.leading {
+	line-height: 2em;
+}
+.lessleading {
+	line-height: 0.8em;
+}
+.black-back {
+	color: #FFFFFF;
+	background-color: #000000;
+	margin: 40px;
+	padding: 10px;
+}
+.redback {
+	background-color: #FF0000;
+	margin: 40px;
+	padding: 10px;
+}
+.lightback {
+	background-color: #CDEBCD;
+	margin: 40px;
+	padding: 10px;
+}
