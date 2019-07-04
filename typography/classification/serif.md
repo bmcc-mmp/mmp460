@@ -1,6 +1,6 @@
 ---
-Site: MMP 460
-Title: Type Classification: Serif
+site: MMP 460
+title: Type Classification: Serif
 ---
 
 <h2>Title: Type Classification: Serif
