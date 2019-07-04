@@ -1,9 +1,11 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 categories: bootstrap
 title: Quick 3 columns responsive layout with Bootstrap
 ---
+
+#Quick 3 columns responsive layout with Bootstrap
+
 To create a 3-column based layout that collapses into one column in viewports smaller than 540px do the following:
 
 Start with [HTML from Bootstrap basic template](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template).
