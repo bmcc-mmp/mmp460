@@ -1,8 +1,8 @@
 ---
 site: MMP 460
-title: Type anatomy
+title: Type Anatomy
 ---
-<h1>Type anatomy</h1>
+<h1>Type Anatomy</h1>
 <p align="center"><img src="anatomy.gif" width="617" height="249" /></p>
 <h2>Guidelines</h2>
 <p><img src="guidelines.gif" width="764" height="279" /></p>
