@@ -1,6 +1,6 @@
 ---
 layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 categories: bootstrap
 title: Complex CSS layout with Bootstrap
 ---
@@ -31,7 +31,7 @@ You can specify the number of columns you want in each break point. For example 
 
 **Nesting columns**
 
-The following code shows how to create a layout similar to the image below. The nested grid is inside one of the columns. Full code is [here](https://github.com/revitalk/Bootstrap/blob/master/nested-grid.html).
+The following code shows how to create a layout similar to the image below. The nested grid is inside one of the columns. Full code is [here](nested-grid.html).
 
 ![nested-grid](nested-grid.gif)
 
