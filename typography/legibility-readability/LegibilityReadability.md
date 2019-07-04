@@ -1,10 +1,9 @@
 ---
 site: MMP 460
 ---
-<p><a href="https://openlab.bmcc.cuny.edu/mmp460"> < Back to MMP 460</a></p>
-<h1>Legibility &amp; Readability</h1>
-<h2><span class="red">Legibility</span> refers to the ease with which a reader can recognize and differentiate between letterforms. </h2>
-<h2><span class="red">Readability</span> refers to how easily a page of text can be read and navigated. </h2>
+<h2>Legibility &amp; Readability</h2>
+<p><span class="red">Legibility</span> refers to the ease with which a reader can recognize and differentiate between letterforms. </p>
+<p><span class="red">Readability</span> refers to how easily a page of text can be read and navigated. </p>
 
 <div id="container">
 <div class="indent"><h2>Factors that affect legibility:</h2>
