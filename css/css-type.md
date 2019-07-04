@@ -1,11 +1,7 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
-categories: css, typography
-title: CSS and Web Typography
+site: MMP 460
+title: CSS Type Properties
 ---
-**CSS Type Properties**
-
 <table>
 <tbody>
 <tr>
@@ -30,7 +26,7 @@ title: CSS and Web Typography
 </table>
 <br>
 <ul>
- 	<li><a href="https://gist.github.com/3929471">Font linking with @font-face</a></li>
+ 	<li><a href="https://github.com/bmcc-mmp/mmp460/blob/master/css/fontface.css">Font linking with @font-face</a></li>
  	<li>Web font services: <a href="http://www.fontsquirrel.com/">Font Squirrel</a>, <a href="http://www.google.com/webfonts">Google fonts</a></li>
  	<li><a href="http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html">Web safe fonts</a></li>
 </ul>
