@@ -1,4 +1,5 @@
 ---
+layout: class
 site: MMP 460 Multimedia Project Lab
 title: Container and Empty HTML Elements
 ---
