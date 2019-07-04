@@ -1,5 +1,4 @@
 ---
-layout: class
 site: MMP 460
 categories: bootstrap
 title: Complex CSS layout with Bootstrap
