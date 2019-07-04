@@ -2,6 +2,7 @@
 Site: MMP 460
 Title: Type Classification: Serif
 ---
+
 <h2>Title: Type Classification: Serif
 </h2>
 <h4>Humanist 1460</h4>
