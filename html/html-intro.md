@@ -2,19 +2,14 @@
 site: MMP 460 Multimedia Project Lab
 title: HTML elements, tags and attributes
 ---
-What is the difference between HTML **elements** and **tags**?
-        <p> 
-is a tag and 
-        </p>
-is a tag too. The first is a start tag and the second is an end tag. 
-
-On the other hand, the following line is an element:
+**HTML tags** mark the content of the page. For example <p> marks content as a paragraph and <header> marks the head portion of a page or an element. 
+        
+Most tags come in pairs. The first opens an *HTML element* and the second closes it. The line below is an example of an *HTML element* which includes the start and end tags, as well as the content.:
 
         <p>This is a great day</p>
         
-It includes the start and end tags, as well as the content.
 
-This is another element:
+This is another html element that in which a paragraph is *nested* inside a div element:
 
         <div><p>This is a great day</p></div>
 
