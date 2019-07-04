@@ -4,7 +4,7 @@ categories: bootstrap
 title: Quick 3 columns responsive layout with Bootstrap
 ---
 
-# Quick 3 columns responsive layout with Bootstrap
+## Quick 3 columns responsive layout with Bootstrap
 
 To create a 3-column based layout that collapses into one column in viewports smaller than 540px do the following:
 
