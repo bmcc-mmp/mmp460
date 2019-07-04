@@ -1,6 +1,5 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 title: HTML5 Sectional Elements
 ---
 The following definitions are all from HTML – Living Standard:
