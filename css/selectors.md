@@ -2,6 +2,9 @@
 site: MMP 460
 title: CSS Selectors
 ---
+
+## CSS Selectors
+
 A CSS selector points to the HTML element targeted and affected by the CSS rule.
 
 **Elements selectors**
