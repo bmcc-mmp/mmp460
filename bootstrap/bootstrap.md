@@ -13,6 +13,7 @@ The quickest and easiest way to start with Bootstrap is to grab the [starter HTM
 **Using Bootstrap Classes**
 
 Bootstrap classes are listed on its website in the [documentation section](https://getbootstrap.com/docs/4.3/getting-started/introduction/). For example, the class *display-1* will render text as follows:
+
                 .display-1 {
                         font-size: 6rem;
                         font-weight: 300;
@@ -34,4 +35,4 @@ Bootstrap [components](https://getbootstrap.com/docs/4.3/components/) are interf
             </div>
         </div>
 
-All components are documented on the Boostrap website. The quickest way to include them in your web page is to copy the example HTML provided in the documentation and modify it.
+All [components](https://getbootstrap.com/docs/4.3/components/) are documented on the Boostrap website. The quickest way to include them in your web page is to copy the provided sample HTML code and modify it according to your needs.
