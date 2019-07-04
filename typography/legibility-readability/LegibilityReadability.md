@@ -40,7 +40,7 @@ site: MMP 460
   <li><a href="alignment.html">Alignment</a> </li>
   <li><a href="measure.html">Measure</a></li>
   <li><a href="widow.html">Widows and orphans</a></li></ul>
-  <h3>Use of negative spaces in a layout </h3>
+  <h4>Use of negative spaces in a layout </h4>
   <ul><li><a href="spacing.html">Letterspacing, tracking, and kerning </a></li>
   <li><a href="spacing.html">Word spacing </a></li>
   <li><a href="leading.html">Leading</a></li>
