@@ -2,6 +2,9 @@
 site: MMP 460 Multimedia Project Lab
 title: HTML elements, tags and attributes
 ---
+
+## HTML elements, tags and attributes
+
 **HTML tags** mark the content of the page. For example <p> marks content as a paragraph and <header> marks the head portion of a page or an element. 
         
 Most tags come in pairs. The first opens an *HTML element* and the second closes it. The line below is an example of an *HTML element* which includes the start and end tags, as well as the content.:

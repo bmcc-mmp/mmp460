@@ -2,6 +2,9 @@
 site: MMP 200 Multimedia Design
 title: Elements to Mark Emphasis
 ---
+
+## Elements to Mark Emphasis
+
 The **strong** element : used to indicate text that is more important than the rest of the text.
 
 The **em** element: used for stress emphasis.

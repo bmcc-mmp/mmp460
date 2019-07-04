@@ -2,6 +2,7 @@
 site: MMP 460
 title: Block-Level Vs. Inline elements
 ---
+## Block-Level Vs. Inline elements
 
 **Block-level** are HTML elements that occupy a full horizontal line on the page. They always start in a new line. 
 

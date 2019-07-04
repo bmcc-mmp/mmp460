@@ -2,6 +2,9 @@
 site: MMP 460
 title: Viewports and Media Queries
 ---
+
+## Viewports and Media Queries
+
 The **viewport** is the visible part of the screen. Different devices have different viewport sizes. You can see many device viewports [listed here](http://viewportsizes.com/).
 
 At the beginning of mobile web most websites were designed for the larger viewport of a computer screen and mobile browsers adapted by scaling down the websites to fit the smaller viewport of the device. In responsive design, we need to disable this practice. We do it with the following meta element:

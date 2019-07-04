@@ -2,6 +2,9 @@
 site: MMP 460 Multimedia Project Lab
 title: Container and Empty HTML Elements
 ---
+
+## Container and Empty HTML Elements
+
 Tags that enclosed content are called **Container Elements**. They consist of opening and closing tags and all content is placed between them. For example:
 
       <p>content</p>

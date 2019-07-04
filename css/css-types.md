@@ -2,6 +2,9 @@
 site: MMP 460
 title: Types of CSS
 ---
+
+## Types of CSS
+
 Cascading Style Sheets (CSS) is a coding language used to enhance the visual design of web pages. CSS can be implemented in three different, complimentary ways: Linked, Embedded and Inline.
 
 When applied to one web page, Inline CSS will take precedence over Embedded and Linked CSS, and Embedded CSS will take precedence over Linked CSS.

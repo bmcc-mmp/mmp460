@@ -2,6 +2,9 @@
 site: MMP 460
 title: CSS Type Properties
 ---
+
+## CSS Type Properties
+
 <table>
 <tbody>
 <tr>

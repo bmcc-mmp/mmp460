@@ -2,7 +2,10 @@
 site: MMP 460
 title: HTML5 Sectional Elements
 ---
-The following definitions are all from HTML – Living Standard:
+
+## HTML5 Sectional Elements
+
+The following definitions are all from [HTML – Living Standard](https://html.spec.whatwg.org/):
 
 The **body** element: The body element represents the main content of the document.
 
