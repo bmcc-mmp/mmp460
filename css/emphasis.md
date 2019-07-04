@@ -3,6 +3,9 @@ layout: class
 site: MMP 460 Multimedia Project Lab
 title: CSS emphasis
 ---
+
+## CSS emphasis
+
 The **STRONG** element : used to indicate text that is more important than the rest of the text.
 
 The **EM** element: used for stress emphasis.
