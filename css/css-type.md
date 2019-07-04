@@ -1,9 +1,7 @@
 ---
 site: MMP 460
-title: CSS and Web Typography
+title: CSS Type Properties
 ---
-**CSS Type Properties**
-
 <table>
 <tbody>
 <tr>
