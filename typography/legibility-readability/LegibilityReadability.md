@@ -2,13 +2,13 @@
 site: MMP 460
 ---
 <h2>Legibility &amp; Readability</h2>
-<p><span class="red">Legibility</span> refers to the ease with which a reader can recognize and differentiate between letterforms. </p>
-<p><span class="red">Readability</span> refers to how easily a page of text can be read and navigated. </p>
+<p><strong>Legibility</strong> refers to the ease with which a reader can recognize and differentiate between letterforms. </p>
+<p><strong>Readability</strong> refers to how easily a page of text can be read and navigated. </p>
 
 <div id="container">
-<div class="indent"><h2>Factors that affect legibility:</h2>
+<div class="indent"><h3>Factors that affect legibility:</h3>
 
-<h3>Style of a Typeface </h3>
+<h4>Style of a Typeface </h4>
 <ul>
   <li>Familiarity</li>
   <li>Serif vs. Sans Serif</li>
@@ -17,14 +17,14 @@ site: MMP 460
   <li><a href="typographic-color.html">Typographic color</a> </li>
   <li><a href="type-texture.html">Texture of type</a> </li>
 </ul>
-<h3>Size and Shape of Type </h3>
+<h4>Size and Shape of Type </h4>
 <ul>
   <li><a href="stroke-weight.html">Stroke weight</a> </li>
   <li><a href="contrast.html">Contrast</a> </li>
   <li>Set width (width of letters)</li>
   <li>Point size</li>
 </ul>
-<h3>Background</h3>
+<h4>Background</h4>
 <ul>
   <li><a href="background.html">Contrast between text and background </a></li>
   <li><a href="background-texture.html">Texture of background</a></li>
@@ -32,9 +32,9 @@ site: MMP 460
   </li>
 </ul>
 </div>
-<div class="indent"><h2>Factors that affect readability:</h2>
+<div class="indent"><h3>Factors that affect readability:</h3>
 
-<h3>Arrangement of Letterforms </h3>
+<h4>Arrangement of Letterforms </h4>
 <ul>
   <li>Number of typefaces</li>
   <li><a href="alignment.html">Alignment</a> </li>
@@ -45,12 +45,11 @@ site: MMP 460
   <li><a href="spacing.html">Word spacing </a></li>
   <li><a href="leading.html">Leading</a></li>
 </ul>
-<h3>Your Audience </h3>
+<h4>Your Audience </h4>
 <ul>
   <li>Physiology of reading: eye focusing <br />
     and reading gravity </li>
   <li>Spelling<br />
   </li>
 </ul></div></div>
-</body>
-</html>
+
