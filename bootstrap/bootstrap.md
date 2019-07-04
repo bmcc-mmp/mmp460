@@ -8,4 +8,4 @@ Bootstrap is a CSS library. It includes CSS and Javascript files that you can us
 
 **Starting with Bootstrap**
 
-The quickest and easiest way to start with Bootstrap is to grab the starter HTML code from its website. It includes all the necessary links to CSS and JS files that are on the Bootstrap server. Alternatively, you can download all Boostrap files and link files locally.
+The quickest and easiest way to start with Bootstrap is to grab the [starter HTML template](https://getbootstrap.com/docs/4.3/getting-started/introduction/#starter-template) from its website. It includes all the necessary links to CSS and JS files that are on the Bootstrap server. Alternatively, you can [download](https://getbootstrap.com/docs/4.3/getting-started/download/#compiled-css-and-js) all Boostrap files and link files locally.
