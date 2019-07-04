@@ -16,7 +16,9 @@ Bootstrap classes are listed on its website. For example, the class
 
 **Bootstrap Components**
 
-Bootstrap components are interface elements with a given HTML & CSS code. For example, the fllowing is a card components is a box
+Bootstrap components are interface elements with a given HTML & CSS code. For example, the fllowing is a card component:
+
+![color picker](card.PNG)
 
         <div class="card" style="width: 18rem;">
             <img src="..." class="card-img-top" alt="...">
