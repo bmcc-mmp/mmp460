@@ -13,11 +13,11 @@ The quickest and easiest way to start with Bootstrap is to grab the [starter HTM
 **Using Bootstrap Classes**
 
 Bootstrap classes are listed on its website in the [documentation section](https://getbootstrap.com/docs/4.3/getting-started/introduction/). For example, the class *display-1* will render text as follows:
-        .display-1 {
-                font-size: 6rem;
-                font-weight: 300;
-                line-height: 1.2;
-                }
+                .display-1 {
+                        font-size: 6rem;
+                        font-weight: 300;
+                        line-height: 1.2;
+                        }
 
 **Bootstrap Components**
 
