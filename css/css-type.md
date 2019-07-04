@@ -1,7 +1,5 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
-categories: css, typography
+site: MMP 460
 title: CSS and Web Typography
 ---
 **CSS Type Properties**
