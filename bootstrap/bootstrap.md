@@ -15,3 +15,16 @@ The quickest and easiest way to start with Bootstrap is to grab the [starter HTM
 Bootstrap classes are listed on its website. For example, the class 
 
 **Bootstrap Components**
+
+Bootstrap components are interface elements with a given HTML & CSS code. For example, the fllowing is a card components is a box
+
+    <div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+All components are documented on the Boostrap website. The quickest way to include them in your web page is to copy the example HTML provided in the documentation and modify it.
