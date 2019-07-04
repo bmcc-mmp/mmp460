@@ -5,10 +5,12 @@ title: Type Classification: Serif
 
 <h2>Type Classification: Serif
 </h2>
+<div>
 <h3>Humanist 1460</h3>
 <img class="alignleft size-full wp-image-598" src="humanist.gif" alt="" width="651" height="225" />
 Examples: Adobe Jenson and Centaur.
 <a href="http://ilovetypography.com/2007/11/06/type-terminology-humanist-2/">Read more</a>.
+  </div>
 <h3>Old Style 1495</h3>
 <img class="alignleft size-full wp-image-605" src="oldstyle.gif" alt="" width="660" height="231" />
 
