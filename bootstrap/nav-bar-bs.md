@@ -4,7 +4,7 @@ categories: bootstrap
 title: Step-by-step basic navigation bar with Bootstrap
 ---
 
-1. Start with HTML from [Bootstrap basic template](https://getbootstrap.com/docs/3.3/getting-started/#template).
+1. Start with HTML from [Bootstrap basic template](https://getbootstrap.com/docs/4.3/getting-started/introduction/#starter-template).
 1. Add a ‘container’ div that has the class ‘container’ or ‘container-fluid’
 
         <div class="container">
@@ -15,8 +15,8 @@ title: Step-by-step basic navigation bar with Bootstrap
         <nav> 
         <ul>
         <li><a href="#">Baseball</a></li>
-        <li><a href="#">N.F.L.</a></li>
-        <li><a href="#">N.B.A.</a></li>
+        <li><a href="#">Baskeball</a></li>
+        <li><a href="#">Football</a></li>
         <li><a href="#">Hockey</a></li>
         </ul>
         </nav>
