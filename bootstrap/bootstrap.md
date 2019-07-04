@@ -1,0 +1,2 @@
+Bootstrap is a CSS library. It includes CSS and Javascript files that you can use to quickly create a web project. Simply link your HTML file to Bootstrap's CSS and Javascript files and use Boostrap classes in your HTML. Bootstrap is responsive and mobile-first, making it a breeze to develop responsive websites. You can customized the look of your site by linking an additional CSS file with your custom CSS styles.
+
