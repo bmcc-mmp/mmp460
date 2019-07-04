@@ -4,7 +4,41 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Designing with Display Type</title>
 <style type="text/css">
-
+<!--
+* {
+	margin: 0px;
+}
+html {
+	font-size: 100%;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 62.5%;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 1000px;
+	line-height: 2em;
+}
+p, table {
+	font-size: 1.4em;
+	margin-bottom: 20px;
+	margin-top: 5px;
+	line-height: 1.5em;
+}
+td {
+	padding: 5px;
+	vertical-align: top;
+}
+h1 {
+	font-size: 2.4em;
+	margin-bottom: 10px;
+}
+h2 {
+	font-size: 1.8em;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	color: #990000;
+}
 img {
 	margin: 30px;
 }
