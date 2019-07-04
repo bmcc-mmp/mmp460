@@ -1,6 +1,5 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 title: CSS Box Model
 ---
 
