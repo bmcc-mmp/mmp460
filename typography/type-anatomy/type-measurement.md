@@ -4,6 +4,8 @@ site: MMP 460
 
 <h2>Type Measurement</h2>
 <p align="center"><img src="type-cast.gif" width="508" height="559" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h2>Units</h2>
 <p align="center"><strong>Point</strong></p>
 <p align="center">1pt = 1/72&quot;</p>
