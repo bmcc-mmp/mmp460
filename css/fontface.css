@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'fontNameRegular';
+    src: url('fontName-Regular-webfont.eot');
+    src: url('fontName-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fontName-Regular-webfont.woff') format('woff'),
+         url('fontName-Regular-webfont.ttf') format('truetype'),
+         url('fontName-Regular-webfont.svg#fontNameRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;	
+	}
+
+p {
+	font-family:'fontNameRegular', Arial, sans-serif;
+	}
