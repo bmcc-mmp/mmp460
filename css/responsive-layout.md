@@ -4,6 +4,9 @@ categories: css, responsive
 site: MMP 200 Multimedia Design
 title: CSS Responsive layout
 ---
+
+## CSS Responsive layout
+
 **Step 1**
 
 Create a div to hold the whole page give it the id “container”. It should start right under the body tag and close right before the body closing tag.
