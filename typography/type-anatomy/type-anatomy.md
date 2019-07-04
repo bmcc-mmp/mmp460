@@ -4,6 +4,8 @@ title: Type Anatomy
 ---
 <h1>Type Anatomy</h1>
 <p align="center"><img src="anatomy.gif" width="617" height="249" /></p>
+<p>&nbsp;</p>
+
 <h2>Guidelines</h2>
 <p><img src="guidelines.gif" width="764" height="279" /></p>
 <p>&nbsp;</p>
