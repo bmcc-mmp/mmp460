@@ -1,6 +1,5 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 title: CSS Selectors
 ---
 A CSS selector points to the HTML element targeted and affected by the CSS rule.

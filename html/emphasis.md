@@ -1,5 +1,4 @@
 ---
-layout: class
 site: MMP 200 Multimedia Design
 title: Elements to Mark Emphasis
 ---

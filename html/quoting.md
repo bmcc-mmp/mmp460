@@ -1,6 +1,5 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 title: Quoting with the blockquote and q elements
 ---
 

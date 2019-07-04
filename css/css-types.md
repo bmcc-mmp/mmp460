@@ -1,6 +1,5 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 title: Types of CSS
 ---
 Cascading Style Sheets (CSS) is a coding language used to enhance the visual design of web pages. CSS can be implemented in three different, complimentary ways: Linked, Embedded and Inline.
