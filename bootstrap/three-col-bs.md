@@ -64,7 +64,9 @@ To vary the width of the columns, change the numbers after the col- and make sur
             <div class="col-3"></div>
           </div>
         </div>
+
 Or,
+        
         <div class="container">
           <div class="row">
             <div class="col-8"></div>
