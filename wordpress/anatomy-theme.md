@@ -14,7 +14,7 @@ A WordPress theme consists of template files that describe the structure of the 
 Each of these pages is made of other template files that describe different parts of the page. For example, the index.php below includes the header.php, sidebar.php and footer.php files.
 
 ![theme](wp-anatomy.gif)
-
+https://github.com/bmcc-mmp/mmp460/tree/master/wordpress/MMP460-minimal-theme
 A bare-bone theme mi simple . Comments 
 
 For a complete discussion of how WordPress themes work read: [The anatomy of a WordPress theme](http://yoast.com/wordpress-theme-anatomy/).
