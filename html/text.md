@@ -1,14 +1,40 @@
 ---
 site: MMP 200 Multimedia Design
-title: Text Elements
+title: HTML Text Elements
 ---
 
-### Basic text elements
+## HTML text elements
 
 p - paragraph text
+
+        <p>So she was considering in her own mind (as well as she could, for the
+        day made her feel very sleepy and stupid), whether the pleasure of
+        making a daisy-chain would be worth the trouble of getting up and
+        picking the daisies, when suddenly a White Rabbit with pink eyes ran
+        close by her. </p>
+
 h1....h6 - titles
+
+        <h1>Down the Rabbit-Hole</h1>
+
+
 ul, li -  unordered list
+        
+        <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+         <ul>
+         
 ol, li - ordered list
+
+         <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+         <ol>
 
 
 ## Elements to Mark Emphasis
