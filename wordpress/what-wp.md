@@ -22,6 +22,6 @@ WordPress is an open source free application that can be downloaded from [wordpr
 
 1. **Download WordPress** from [wordpress.org](https://wordpress.org/) and unzip it.
 2. **Create a new database**. Create a user that has administrator privilages to the database. Make note the names of the database, user and password.
-3. **Connect the database to the WordPress installation**. Locate a file in the extracted WordPress folder called wp-config-sample.php and rename it wp-config.php. Open it in a text editor and add the database name, user name and password in their designated places. Add the MySQL hostname (this information should be provided by your internet hosting service. It is often MYSQLSRVR or localhost, if installed locally).
+3. **Connect the database to the WordPress installation**. Locate a file in the extracted WordPress folder called wp-config-sample.php and rename it wp-config.php. Open it in a text editor and add the database name, user name and password in their designated places. Add the MySQL hostname (this information should be provided by your internet hosting service. It is often mysqlsvr or localhost, if installed locally).
 4. **Upload the extracted WorPress folder with all files to server**
-5. **Install the site**. In your browser address field type the url of your wordpress site and follow the instructions to install the site.
+5. **Run the install script**. In your browser address field type the url of your wordpress site and follow the instructions to install the site.
