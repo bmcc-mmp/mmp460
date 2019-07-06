@@ -38,19 +38,15 @@ ol, li - ordered list (number list)
          <ol>
 
 
-## Elements to Mark Emphasis
+## Elements to Mark Emphasis or Set Text Apart
 
-The **strong** element is used to indicate text that is more important than the rest of the text.
+The **strong** element is used to indicate text that is more important than the rest of the text. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-strong-element).
 
 The **em** element is used for stress emphasis. It does not indicate importance but alters the meaning of the sentence. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
 
-The **b** element is used to offset part of the text for stylistic purposes. It does not convey importance or meaning. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
+The **b** element is used to offset part of the text for stylistic purposes. It does not convey importance or meaning. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-b-element).
 
-The **i** element: The <i> tag defines a part of text in an alternate voice or mood. The content of the <i> tag is usually displayed in italic.[More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
-
-The <i> tag can be used to indicate a technical term, a phrase from another language, a thought, or a ship name, etc. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
-
-
+The **i** element: used to indicate a different, voice, language or moood from the rest of the text.[More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-i-element).
 
 
 ### Quoting with the blockquote and q elements
