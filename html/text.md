@@ -1,9 +1,11 @@
 ---
 site: MMP 200 Multimedia Design
-title: HTML Text Elements
+title: Formatting Text in HTML
 ---
 
-## HTML text elements
+## Formatting Text in HTML
+
+The following are the most commonly used HTML elements to format text.
 
 p - paragraph text
 
