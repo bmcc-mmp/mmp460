@@ -22,26 +22,6 @@ WordPress is an open source free application that can be downloaded from [wordpr
 
 1. **Download WordPress** from [wordpress.org](https://wordpress.org/) and unzip it.
 2. **Create a new database**. Create a user that has administrator privilages to the database. Make note the names of the database, user and password.
-3. **Connet the database to the WordPress installation**. Locate a file in the extracted WordPress folder called wp-config-sample and rename it wp-config.php. Open it in a text editor. under the section labeled:
-
-         // ** MySQL settings - You can get this info from your web host ** //
-        DB_NAME 
-        
-The name of the database you created for WordPress in Step 2 . For example:
-
-        define('DB_NAME', 'jsmith_db');
-        DB_USER 
-        
-The username you created for WordPress in Step 2. For example:
-
-        define('DB_USER', 'jsmith_jsmith');
-        DB_PASSWORD 
-        
-The password you chose for the WordPress username in Step 2.
-
-        DB_HOST 
-        The hostname you determined in Step 2 (in our case is mysqlsvr). For example:
-        define('DB_HOST', 'mysqlsvr');
-        DB_CHARSET 
+3. **Connet the database to the WordPress installation**. Locate a file in the extracted WordPress folder called wp-config-sample.php and rename it wp-config.php. Open it in a text editor and add the database name, user name and password in their designated places. 
 4. **Upload the WorPress files to server** to the lica
 5. **Install the site**
