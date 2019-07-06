@@ -19,16 +19,16 @@ h1....h6 - titles
         <h2>Down the Rabbit-Hole</h2>
 
 
-ul, li -  unordered list
+ul, li - unordered list (bullet list)
         
         <ul>
-                <li>Down the Rabbit-Hole</li>
-                <li>The Pool Of Tears</li>
-                <li>A Caucus-Race And A Long Tale</li>
-                <li>The Rabbit Sends In A Little Bill</li>
+                <li>Alice</li>
+                <li>White rabbit</li>
+                <li>Caterpillar</li>
+                <li>Queen</li>
          <ul>
          
-ol, li - ordered list
+ol, li - ordered list (number list)
 
          <ol>
                 <li>Down the Rabbit-Hole</li>
@@ -40,13 +40,17 @@ ol, li - ordered list
 
 ## Elements to Mark Emphasis
 
-The **strong** element : used to indicate text that is more important than the rest of the text.
+The **strong** element is used to indicate text that is more important than the rest of the text.
 
-The **em** element: used for stress emphasis. It does not indicate importance but alters the meaning of the sentence. 
+The **em** element is used for stress emphasis. It does not indicate importance but alters the meaning of the sentence. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
 
-The **b** element: does not convey importance or meaning. It is used to offset part of the text from the normal text without conveying any extra importance.
+The **b** element is used to offset part of the text for stylistic purposes. It does not convey importance or meaning. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
 
-The **i** element: does not convey importance or meaning. It is used to offset part of the text from the normal text without conveying any extra importance.
+The **i** element: The <i> tag defines a part of text in an alternate voice or mood. The content of the <i> tag is usually displayed in italic.[More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
+
+The <i> tag can be used to indicate a technical term, a phrase from another language, a thought, or a ship name, etc. [More](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-em-element).
+
+
 
 
 ### Quoting with the blockquote and q elements
