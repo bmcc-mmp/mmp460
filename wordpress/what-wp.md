@@ -20,5 +20,5 @@ WordPress is an open source free application that can be downloaded from [wordpr
 
 **Steps for installing WordPress manually**
 
-- Download WordPress from [wordpress.org](https://wordpress.org/)
-- Create a new database
+1 Download WordPress from [wordpress.org](https://wordpress.org/)
+2 Create a new database
