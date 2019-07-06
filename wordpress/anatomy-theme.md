@@ -12,11 +12,7 @@ A WordPress theme consists of template files for parts of the pages, such as hea
 This is how the content of the theme folder might look like:
 ![files](wp-files.png)
 
-Note that header.php contains the code for the header part of all pages. Footer.php contains the code for the footer part of all pages. Style.css include the css styles that are used by all pages and functions.php/
-
-Although these files include a lot of hrml
-
-Each of these pages is made of other template files that describe different parts of the page. For example, the index.php below includes the header.php, sidebar.php and footer.php files.
+This is a diagram of a Wordpress web page that shows the way the templates are used:
 
 
 
