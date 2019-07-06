@@ -10,7 +10,7 @@ WordPress is a *content management* application that can be used to create websi
 
 WordPress come with many templates, called *themes*, allowing you to create a professional looking site in minutes, without design work. In addition, many 3-party extentions, called *plugins*, can be used to add functionality, like slideshows, forms and even a shopping cart.
 
-WordPress is an open source free application that can be downloaded from [wordpress.org](https://wordpress.org/) and installed manually on a server. Alternatively, many internet hosting services provide a one-click installation of WordPress site. It should NOT be confused with wordpress.com, which is a service that hosts wordpress sites.
+WordPress is an open source free application that can be downloaded from [wordpress.org](https://wordpress.org/) and installed manually on a server. Alternatively, many internet hosting services provide a one-click installation of WordPress sites. It should NOT be confused with wordpress.com, which is a service that hosts wordpress sites.
 
 **A WorPress site is comprised of three main components:**
 
