@@ -20,5 +20,7 @@ WordPress is an open source free application that can be downloaded from [wordpr
 
 **Steps for installing WordPress manually**
 
-1. Download WordPress from [wordpress.org](https://wordpress.org/)
-2. Create a new database
+1. Download WordPress from [wordpress.org](https://wordpress.org/) and unzip it.
+2. Create a new database. Create a user that has administrator privilages to the database. Make note the names of the database, user and password.
+3. Locate the file called in 
+4. Upload the WorPress file to the lica
