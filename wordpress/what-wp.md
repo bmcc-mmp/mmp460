@@ -17,3 +17,8 @@ WordPress is an open source free application that can be downloaded from [wordpr
 - **The WordPress application** –  a PHP-based Content Management software that is installed on the server.
 - **A database** that stores all the content of the site, including text, images and other media.
 - **A theme** – a set of php files that specify the design of the site. Because the theme (the design) is separated from the database (the content)  it can be changed easily without affecting the site’s content.
+
+**Steps for installing WordPress manually**
+
+1  Download WordPress from [wordpress.org](https://wordpress.org/)
+1  Create a new database
