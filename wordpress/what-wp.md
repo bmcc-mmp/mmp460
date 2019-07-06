@@ -1,8 +1,7 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress
-title: Anatomy of a WordPress Site
+title: What is WordPress?
 ---
 
 ## What is WordPress?
