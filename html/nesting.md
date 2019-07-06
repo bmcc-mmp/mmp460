@@ -2,7 +2,7 @@
 site: MMP 460
 ---
 
-## Nesting, Parents, Children and inheritance
+## Nesting, Parents, Children and Inheritance
 
 When an HTML element is 'nested' inside another element, such as in the code below, it is considered a child of the nesting element.
  
