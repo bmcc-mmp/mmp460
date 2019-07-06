@@ -4,7 +4,7 @@ site: MMP 460
 
 ## Installing a WordPress Site
 
-WordPress is an open source free application that can be downloaded from [wordpress.org](https://wordpress.org/) and installed manually on a server. *Alternatively, many internet hosting services provide a one-click installation of WordPress sites*. It should NOT be confused with wordpress.com, which is a service that hosts wordpress sites.
+WordPress is an open source free application that can be downloaded from [wordpress.org](https://wordpress.org/) and installed manually on a server. *Alternatively, many internet hosting services provide a one-click installation of WordPress sites*.
 
 **A WorPress site is comprised of three main components:**
 
