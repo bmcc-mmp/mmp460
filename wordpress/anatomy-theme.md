@@ -5,7 +5,7 @@ categories: wordpress
 title: The anatomy of a WordPress theme
 ---
 
-## anatomy of a WordPress theme
+## Anatomy of a WordPress theme
 
 A WordPress theme consists of template files that describe the structure of the different pages, such as the homepage, static pages, single post pages, etc.
 
