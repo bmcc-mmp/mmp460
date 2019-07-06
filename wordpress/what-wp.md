@@ -18,9 +18,9 @@ WordPress is an open source free application that can be downloaded from [wordpr
 - **A database** that stores all the content of the site, including text, images and other media.
 - **A theme** – a set of php files that specify the design of the site. Because the theme (the design) is separated from the database (the content)  it can be changed easily without affecting the site’s content.
 
-### Steps to installing WordPress manually
+### Steps to installing a WordPress site manually
 
 1. Download WordPress from [wordpress.org](https://wordpress.org/) and unzip it.
 2. Create a new database. Create a user that has administrator privilages to the database. Make note the names of the database, user and password.
-3. Locate the file called in 
+3. Locate a file in the WordPress folder called wp-config 
 4. Upload the WorPress file to the lica
