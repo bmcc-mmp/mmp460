@@ -15,4 +15,6 @@ Each of these pages is made of other template files that describe different part
 
 ![theme](wp-anatomy.gif)
 
+A bare-bone theme mi simple . Comments 
+
 For a complete discussion of how WordPress themes work read: [The anatomy of a WordPress theme](http://yoast.com/wordpress-theme-anatomy/).
