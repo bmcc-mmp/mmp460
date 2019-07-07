@@ -11,6 +11,8 @@ A WordPress theme consists of template files for parts of the pages, such as hea
 This is how the content of the theme folder might look like:
     ![files](wp-files.png)
 
+
+
 This is a diagram of a Wordpress web page that shows the way some templates are used:
 
 
