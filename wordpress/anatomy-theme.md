@@ -2,10 +2,10 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress
-title: The anatomy of a WordPress Theme
+title: Anatomy of a WordPress Theme
 ---
 
-## Anatomy of a WordPress theme
+## Anatomy of a WordPress Theme
 
 A WordPress theme consists of template files for parts of the pages, such as header, footer, sidebar and for different types of content, such as posts, static pages, comments and more. 
 
