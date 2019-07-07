@@ -19,7 +19,7 @@ This is a diagram of a Wordpress web page that shows the way some templates are 
 
 ![theme anatomy](theme-anatom.png)
 
-Theme templates are PHP files that include the HTML code required to structure pages and PHP code that instructs the server to deliver content from the database. The HTML files that copmrised the website are created on the fly by WordPress based on the templates and the content from the database. 
+Theme templates are PHP files that include the HTML code required to structure pages and PHP code that instructs the server to deliver content from the database. The HTML files that comprised the website are created on the fly by WordPress based on the templates and the content from the database. 
 
 This is a [bare-bone theme](https://github.com/bmcc-mmp/mmp460/tree/master/wordpress/MMP460-minimal-theme) that can be used to study the basic building blocks on a WordPress theme.  
 
