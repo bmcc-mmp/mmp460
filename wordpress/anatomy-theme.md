@@ -2,7 +2,7 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress
-title: The anatomy of a WordPress theme
+title: The anatomy of a WordPress Theme
 ---
 
 ## Anatomy of a WordPress theme
@@ -16,8 +16,9 @@ This is a diagram of a Wordpress web page that shows the way some templates are 
 
 
 ![theme anatomy](theme-anatom.png)
-https://github.com/bmcc-mmp/mmp460/tree/master/wordpress/MMP460-minimal-theme
 
-ThisA bare-bone theme mi simple . Comments 
+Theme templates are PHP files that include the HTML code required to structure pages and PHP code that instructs the server to deliver content from the database. The HTML files that copmrised the website are created on the fly by WordPress based on the templates and the content from the database. 
+
+This is a [bare-bone theme](https://github.com/bmcc-mmp/mmp460/tree/master/wordpress/MMP460-minimal-theme) that can be used to study the basic building blocks on a WordPress theme.  
 
 For a complete discussion of how WordPress themes work read: [The anatomy of a WordPress theme](http://yoast.com/wordpress-theme-anatomy/).
