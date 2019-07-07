@@ -13,6 +13,7 @@ This is how the content of the theme folder might look like:
 
 
 -----------------------------------
+
 This is a diagram of a Wordpress web page that shows the way some templates are used:
 
 
