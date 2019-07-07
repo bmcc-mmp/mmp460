@@ -1,5 +1,4 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress
 title: Anatomy of a WordPress Theme
