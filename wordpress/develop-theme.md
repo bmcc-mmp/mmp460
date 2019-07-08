@@ -6,7 +6,7 @@ site: MMP 460
 
 Before you start: 
 - you need working knowledge of HTML CSS and how to transfer files to and from the server
-- If you haven't already, [install wordpress]
+- If you haven't already, [install wordpress](https://bmcc-mmp.github.io/mmp460/wordpress/install-wp)
 - Name, download and unzip [underscores](https://underscores.me/)
 - Locate the theme directory in your wordpress folder (wp-content>themes)
 - upload underscores to the theme directory
