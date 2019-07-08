@@ -6,9 +6,10 @@ site: MMP 460
 
 A starter theme is a shortcut to developing your own custom theme. It gives you the PHP "bones" and follows 
 
+Before you start: you need working knowledge of HTML CSS and how to transfer files to and from the server
+
 ### Install underscores
 
-Before you start: you need working knowledge of HTML CSS and how to transfer files to and from the server
 - If you haven't already, [install wordpress](https://bmcc-mmp.github.io/mmp460/wordpress/install-wp)
 - Name, download and unzip [underscores](https://underscores.me/)
 - Locate the theme directory in your wordpress folder (wp-content>themes)
