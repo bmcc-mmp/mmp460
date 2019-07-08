@@ -24,3 +24,9 @@ Theme templates are PHP files that include the HTML code required to structure p
 This is a [bare-bone theme](https://github.com/bmcc-mmp/mmp460/tree/master/wordpress/MMP460-minimal-theme) that can be used to study the basic building blocks on a WordPress theme.  
 
 For a complete discussion of how WordPress themes work read: [The anatomy of a WordPress theme](http://yoast.com/wordpress-theme-anatomy/).
+
+-----------------------------------
+
+### Template Hierachy
+
+A theme may include as few files as the ones in . WordPress has a method of selecting a template for a page based on a schema and the templates avaiable in the theme. 
