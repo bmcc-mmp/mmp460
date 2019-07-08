@@ -27,6 +27,6 @@ For a complete discussion of how WordPress themes work read: [The anatomy of a W
 
 -----------------------------------
 
-### Template Hierachy
+### Template Hierarchy
 
-A theme may include as few files as the ones in . WordPress has a method of selecting a template for a page based on a schema and the templates avaiable in the theme. 
+A theme may include as few files as the ones in this [bare-bone theme](https://github.com/bmcc-mmp/mmp460/tree/master/wordpress/MMP460-minimal-theme) but it can also include additional templates that are . WordPress has a method of selecting a template for a page based on a schema and the templates avaiable in the theme. Generraly speaking header
