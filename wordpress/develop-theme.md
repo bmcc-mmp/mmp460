@@ -4,6 +4,8 @@ site: MMP 460
 
 ## Developing a Custom Theme from a Starter Theme
 
+A starter theme is a shortcut to developing your own custom theme. It gives you the PHP "bones" and follows 
+
 ### Install underscores
 
 Before you start: you need working knowledge of HTML CSS and how to transfer files to and from the server
