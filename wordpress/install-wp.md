@@ -24,3 +24,7 @@ WordPress is an open source free application that can be downloaded from [wordpr
 
 1. Login in to your WordPress site's dashboard at yoursiteurl/wp-admin using the username and password selected during installation.
 2. To change the theme, choose Appearance > Themes and select or install a new theme.
+
+------------------------
+
+For step-by-step instructions, follow WordPress famous [5-Minute Installation](https://wordpress.org/support/article/how-to-install-wordpress/).
