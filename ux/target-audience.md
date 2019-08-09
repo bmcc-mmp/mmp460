@@ -19,6 +19,7 @@ For existing products, the target audience can be defined based on research into
 Your target audience should be defined with the following metrics:
 
 **Demographic**
+
 Basic demographic information is part of every description of a target audience
 - Age range: designing for children is obviously different than designing for adults but both groups can be subdivided into smaller groups in a way that reflects cognitive skills, stage in life and generational differences.
 - Gender: consider if more men than women are likely to use your products, or the other way around.
@@ -26,6 +27,7 @@ Basic demographic information is part of every description of a target audience
 
 
 **Mindsets and Motivations**
+
 To understand users relationship to the topic of your site or app answer these additional questions as related to your product:
 - What are their hobbies and interests?
 - What are their attitudes or opinions?
@@ -33,6 +35,7 @@ To understand users relationship to the topic of your site or app answer these a
 - What would be their motivation to use the site/app?
 
 **Experience**
+
 - Do your users have experience using similar products?
 - How much do your users know about the topic of the site/app?
 - You may need to accommodate users with different levels of computer skills and familiarity with the subject matter.
