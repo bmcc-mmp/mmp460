@@ -1,8 +1,9 @@
 ---
-layout: class
-site: MMP 200 Multimedia Design
+site: MMP 460
 title: Personas
 ---
+
+## Personas
 
 A persona is an archetype representing a target user. It is a tool to build empathy with the audience and gain insight into the ways users think, feel and behave.
 
