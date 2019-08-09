@@ -17,4 +17,4 @@ In the process of planning a project a designer might create a persona to for ev
 [Read more about Personas here](http://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/).
 
 
-[Persona-blank]({{site.url}}/mmp200/information-architecture/persona-blank.doc)
+[Persona template]({{site.url}}/mmp460/ux/persona-blank.doc)
