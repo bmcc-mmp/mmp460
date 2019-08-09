@@ -4,7 +4,9 @@ site: MMP 200 Multimedia Design
 title: Personas
 ---
 
-Personas are archetypes representing users from the target audience groups. They provide insight into user goals and needs, and the way they interact with the product.
+A persona is an archetype representing a target user. It is a tool to build empathy with the audience and gain insight into the ways users think, feel and behave.
+
+In the process of planning a project a designer might create a persona to for every sub group of the target audience.
 
 [Read more about Personas here](http://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/).
 
