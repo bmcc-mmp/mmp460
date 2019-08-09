@@ -37,3 +37,5 @@ To understand users relationship to the topic of your site or app answer these a
 - Do your users have experience using similar products?
 - How much do your users know about the topic of the site/app?
 - You may need to accommodate users with different levels of computer skills and familiarity with the subject matter.
+
+User research helps synthesize the kind of people that constitute the target audience. Based on this research ux designers often create [personas](personas.md) as a tool to emphasize with the target audience and unerstand their needs.
