@@ -40,11 +40,11 @@ To understand users relationship to the topic of your site or app answer these a
 - How much do your users know about the topic of the site/app?
 - You may need to accommodate users with different levels of computer skills and familiarity with the subject matter.
 
-User research helps synthesize the kind of people that constitute the target audience. Based on this research ux designers often create *personas* as a tool to emphasize with the target audience and unerstand their needs.
-
 ### Personas ###
 
-A persona is an archetype representing a target user. It is a tool to build empathy with the audience and gain insight into the ways users think, feel and behave.
+User research helps synthesize the kind of people that constitute the target audience. Based on this research ux designers often create *personas* as a tool to empathise with the target audience and unerstand their needs.
+
+Personas are archetypes representing users from the target audience groups. They provide insight into user goals and the way they interact with the product.
 
 In the process of planning a project a designer might create a persona to for every sub group of the target audience.
 
