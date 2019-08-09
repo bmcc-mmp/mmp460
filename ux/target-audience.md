@@ -8,7 +8,7 @@ Your target audiences are the primary user groups of your website or app. A succ
 - why would they use your product? 
 - What are their needs? 
 
-### ‘Everyone’ is Not a Target Audience
+**‘Everyone’ is Not a Target Audience**
 
 The target audience is the group of people most likely to use and benefit from your product. It is NOT every possible person who might be using your product.
  
