@@ -16,7 +16,7 @@ The target audience is often more than one group, in which case your product wil
 For existing products, the target audience can be defined based on research into their user base. 
 
 
-## Your target audience should be defined with the following metrics: ##
+## Describing Target Audiences ##
 
 **Demographic**
 
