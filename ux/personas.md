@@ -8,6 +8,8 @@ A persona is an archetype representing a target user. It is a tool to build empa
 
 In the process of planning a project a designer might create a persona to for every sub group of the target audience.
 
+Example: [Personas for Belkin Energy app](https://www.behance.net/gallery/16599605/Belkin-Energy-App-Personas) 
+
 [Read more about Personas here](http://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/).
 
 [Sample persona](http://projectuxd.com/wp-content/uploads/2009/03/nicollepersonach7.doc) for a fictitious product development of Bluetooth earphones for iPhone (from [A Project Guide to UX Design](http://projectuxd.com/)).
