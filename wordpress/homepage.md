@@ -1,8 +1,9 @@
 ---
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Adding a Homepage Template for the Underscore Theme
 ---
+
+## Adding a Homepage Template for the Underscore Theme
 
 1. Duplicate page.php and rename it front-page.php
 
