@@ -49,6 +49,19 @@ Using the new WP page and post editor you can add blocs of titles, text, images 
 
 A theme is a set of templates that dictate the site’s interface and appearance. You can change the theme of the site without affecting its content. A WordPress site comes with a few default themes but there are many other free themes that may fit your sites needs better that you can easily install and use. There are paid themes as well that offer extra functionality. To change the theme, and install new ones choose Appearance> Themes.
 
+**Customizing the theme**
+
+Some customization is possible in Appearance > Customize, including adding css code. 
+
+**The Header**
+
+The header contains the site name and tagline. To enter them choose Settings > General.
+
+![changing homepage](settings.PNG)
+
+Some themes support adding a logo and a background image, both can be done in Appearance > Customize.
+
+
 **Setting the Main Menu**
 
 The theme dictates where and how the main menu will be displayed. Some themes don’t even support a menu, and some offer more than one, such as a main menu and a footer menu. To set the menu choose Appearance > Menus. On the left you will see the pages, posts and categories that you can choose to include in the menu. You can also add custom links to specific URLs. Use indents in the Menu Structure on the right to create dropdowns. (Dropdowns will only work if the theme includes the code to support them though.) 
