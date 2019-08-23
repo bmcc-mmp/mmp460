@@ -4,17 +4,17 @@ site: MMP 460
 
 ## Developing a Custom Theme from a Starter Theme
 
-A starter theme is a shortcut to developing your own custom theme. It gives you the PHP "bones" and follows 
+A starter theme is a shortcut to developing your own custom theme. It gives you the core PHP code needed to build the site and hopefully, follows recommended best practices. A popular starter theme is [undescore](https://underscores.me/), which is developed by Automattic, the company behind WordPress.com.
 
-Before you start: you need working knowledge of HTML CSS and how to transfer files to and from the server
+*What you need to know:* you need working knowledge of HTML CSS and know how to transfer files to and from the server.
 
 ### Install underscores
 
-- If you haven't already, [install wordpress](https://bmcc-mmp.github.io/mmp460/wordpress/install-wp)
-- Name, download and unzip [underscores](https://underscores.me/)
+- If you haven't already, [install wordpress](https://bmcc-mmp.github.io/mmp460/wordpress/install-wp).
+- Name, download and unzip [underscores](https://underscores.me/).
 - Locate the theme directory in your wordpress folder (wp-content>themes)
-- upload underscores to the theme directory
-- In your WordPress' site dashboard activate 
+- Upload underscores to the theme directory.
+- In your WordPress' site dashboard activate the underscore theme (it will appear under the name that you chose). 
 
 
 Add Bootstrap support
