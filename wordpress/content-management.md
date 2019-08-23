@@ -59,6 +59,6 @@ Make sure to save the menu and give it a display location.
 
 **The sidebar**
 
-The sidebar is an optional, separate area on the page that displays the [https://wordpress.org/support/article/wordpress-widgets/](widgets), which add additional content and features with a drag-and-drop easy setup. The sidebar location and style are determined by the theme. Some themes offer more than one sidebar in different locations. To populate the sidebar, choose Appearance > Widgets. Drag any available widget to the sidebar and modify it as needed.
+The sidebar is an optional, separate area on the page that displays the (widgets)[https://wordpress.org/support/article/wordpress-widgets/], which add additional content and features with a drag-and-drop easy setup. Examples of widgets are calendar or posts, custom menus or a gallery. The sidebar location and style are determined by the theme. Some themes offer more than one sidebar in different locations. To populate the sidebar, choose Appearance > Widgets. Drag any available widget to the sidebar and modify it as needed.
 
 
