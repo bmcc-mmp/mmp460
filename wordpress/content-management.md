@@ -36,6 +36,7 @@ The post page displays the latest posts (the number of which can be controlled i
 **Changing the homepage**
 
 Using the Post Page as a homepage usually works only for blogs, for all other sites you  can choose any other page to serve as the homepage. To change the homepage choose Settings > Reading and change  ‘Your homepage displays’ to static page. Select a page for your homepage. 
+
 ![changing homepage](reading.PNG)
 
 **Editing Posts and Pages**
