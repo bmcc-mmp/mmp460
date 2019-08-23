@@ -1,8 +1,10 @@
 ---
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Adding Bootstrap support to your Underscore theme
 ---
+
+## Adding Bootstrap support to your Underscore theme
+
 1. **Link the Bootstrap stylesheet**
 In style.css add the following line above the existing css code (but after the initial comment): 
   
