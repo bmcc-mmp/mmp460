@@ -80,4 +80,9 @@ Make sure to save the menu and give it a display location.
 
 The sidebar is an optional, separate area on the page that displays the [widgets](https://wordpress.org/support/article/wordpress-widgets/), which add additional content and features with a drag-and-drop easy setup. Examples of widgets are calendar or posts, custom menus or a gallery. The sidebar location and style are determined by the theme. Some themes offer more than one sidebar in different locations. To populate the sidebar, choose Appearance > Widgets. Drag any available widget to the sidebar and modify it as needed.
 
+### Adding Dynamic Features with Plugins
+
+Plugins are 3rd-party software that can be installed on a WordPress site to add features and extend its functionality. There are plugins to add relatively small features, such as slideshows and forms, as well as plugins that add extensive functionality, such as [e-commerce](https://wordpress.org/plugins/woocommerce/) or [social networking](https://wordpress.org/plugins/buddypress/). Choose plugins from the left menu to install and activate plugins. 
+
+
 
