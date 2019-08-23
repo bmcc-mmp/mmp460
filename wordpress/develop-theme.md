@@ -18,18 +18,18 @@ A starter theme is a shortcut to developing your own custom theme. It gives you 
 
 ### Customizing the Theme
 
-- [Add Bootstrap support]({{site.url}}/mmp460/wordpress/bootstrap-support)
+- [Add Bootstrap support](https://bmcc-mmp.github.io/mmp460/wordpress/bootstrap-support)
 - [HTML Structure of an underscore template](https://bmcc-mmp.github.io/mmp460/wordpress/structure-underscore)
 - [Adding a homepage template](https://bmcc-mmp.github.io/mmp460/wordpress/homepage)
 - [Creating a home page with a slideshow and 3 columns](https://bmcc-mmp.github.io/mmp460/wordpress/multiple-menus-underscore)
-- [Linking images](image-linking)
+- [Linking images](https://bmcc-mmp.github.io/mmp460/wordpress/image-linking)
 - [Add an additional menu](https://bmcc-mmp.github.io/mmp460/wordpress/multiple-menus-underscore)
 - [Add additional sidebars](https://bmcc-mmp.github.io/mmp460/wordpress/sidebar-underscore)
 - [Create custom templates](https://bmcc-mmp.github.io/mmp460/wordpress/custom-templates)
-- [Create a category template]
-- [Create a blog page]
-- [Display posts from one category only]
-- [Featured images]
+- [Create a category template](https://bmcc-mmp.github.io/mmp460/wordpress/category-underscore)
+- [Create a blog page](https://bmcc-mmp.github.io/mmp460/wordpress/custom-blog-template.md)
+- [Display posts from one category only](https://bmcc-mmp.github.io/mmp460/wordpress/category)
+- [Featured images](https://bmcc-mmp.github.io/mmp460/wordpress/featured-image-underscore)
 - [Links to Posts and Pages in Templates](https://bmcc-mmp.github.io/mmp460/wordpress/linking)
 
 
