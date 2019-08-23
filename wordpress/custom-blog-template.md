@@ -1,9 +1,10 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Creating a custom template for the blog page (underscore theme)
 ---
+
+## Creating a custom template for the blog page (underscore theme)
+
 
 - Create a new post category and name it ‘blog’
 - Duplicate archive.php and rename the duplicate file category-blog.php.
