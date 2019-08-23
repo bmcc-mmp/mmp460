@@ -5,6 +5,8 @@ categories: wordpress
 
 ## The WordPress Loop
 
+The WordPress *Loop* is PHP/HTML code that displays the content of the posts or pages. For Post pages or other pages that include multiple posts, the Loop code will loop through all relevant posts and display them in a chronological order.
+
 Simple loop for page templates (page.php):
 
         <?php if(have_posts()) : while(have_posts()) : the_post(); ?>
@@ -33,3 +35,7 @@ This loop does not include date, author and other post’s metadata. For a loop 
         <?php endif; ?>
 
 More about the loop in the [WordPress Codex](http://codex.wordpress.org/The_Loop).
+
+##  Loop files
+
+A recommended practice is to store the loop code in its own file and to reference it from the template. These loop files are stored in a directory called *template-parts* and are named content-.php. For example content-page.php or content-home.php. The default one will be called content.php. To reference a 
