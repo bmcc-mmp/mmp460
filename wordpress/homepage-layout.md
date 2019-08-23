@@ -1,5 +1,4 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
 title: Creating a home page with a slideshow and 3 columns (underscore theme)
