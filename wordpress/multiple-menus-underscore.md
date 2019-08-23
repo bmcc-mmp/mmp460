@@ -1,8 +1,10 @@
 ---
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Multiple menus in Underscore
 ---
+
+## Multiple menus in Underscore
+
 **MENU ACTIVATION**
 
 - In functions.php scroll down to:
