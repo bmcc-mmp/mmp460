@@ -16,14 +16,18 @@ A starter theme is a shortcut to developing your own custom theme. It gives you 
 - Upload underscores to the theme directory.
 - In your WordPress' site dashboard activate the underscore theme (it will appear under the name that you chose). 
 
+### Customizing the Theme
 
-Add Bootstrap support
-Link images
-Add an additional menu
-Add additinal sidebars
-Create a custom page or post template
-Create a category template
+- [Add Bootstrap support]
+- [HTML Structure of an underscore template]
+- [Link images]
+- [Add an additional menu]
+- [Add additional sidebars]
+- [Create custom templates]
+- [Create a category template]
+- [Create a blog page]
+- [Display posts from one category only]
+- [Featured images]
 
 
-If you know HTML and CSS you can develop your own WordPress theme. Start with a starter theme that will give you . Start with [underscores](https://underscores.me/), a starter theme meant for hacking. The following are recipes to customize the theme.
 
