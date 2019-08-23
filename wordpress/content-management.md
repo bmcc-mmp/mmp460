@@ -3,16 +3,21 @@ layout: default
 site: MMP 460 Multimedia Project Lab
 ---
 
-##Starting with WordPress File Management##
+## Starting with WordPress File Management ##
 
-*Logging in*
+**Logging in**
 Log into the WordPress dashboard by entering the following URL in the browser:
-yoursiteurl/wp-admin
-Enter the username and password that you created when you installed the site.
 
-Entering content
+  yoursiteurl/wp-admin
+  
+Enter the username and password that you created when you installed the site.
+![login.PNG]
+
+### Entering content ###
+
 You have the choice of entering your content in posts or pages.
-Posts
+
+**Posts**
 Posts are displayed as aggregates and are arranged chronologically. Posts can also be viewed, and be linked to, individually. Use posts for the type of content that come in self-contained units, such as blog posts, news and events, that would make sense to display together.
 Pages
 These are like any web pages. Unlike Posts, they are displayed individually.
