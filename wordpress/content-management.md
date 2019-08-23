@@ -41,7 +41,13 @@ Using the Post Page as a homepage usually works only for blogs, for all other si
 
 **Editing Posts and Pages**
 
-Using the new WP page and post editor you can add blocs of titles, text, images and other media to the page or post. Some text formatting is available as well.
+Using the new WP page and post editor you can add blocs of titles, text, images and other media to the page or post. 
+
+![blocks](blocks.PNG)
+
+Some text formatting is available as well.
+
+![formatting text](formatting.PNG)
 
 ### Controlling the appearance of your website
 
