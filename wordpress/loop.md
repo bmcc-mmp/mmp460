@@ -38,4 +38,11 @@ More about the loop in the [WordPress Codex](http://codex.wordpress.org/The_Loop
 
 ##  Loop files
 
-A recommended practice is to store the loop code in its own file and to reference it from the template. These loop files are stored in a directory called *template-parts* and are named content-.php. For example content-page.php or content-home.php. The default one will be called content.php. To reference a 
+A recommended practice is to store the loop code in its own file and to reference it from the template. These loop files are stored in a directory called *template-parts* and are named content-.php. For example content-page.php or content-home.php. The default one will be called content.php. For example, this PHP code references a loop file called content-page.php.
+
+        get_template_part( 'template-parts/content', 'page' ); 
+        
+To reference the default loop file content.php use this code:
+
+        get_template_part( 'template-parts/content', get_post_type() );
+
