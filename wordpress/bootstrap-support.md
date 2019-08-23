@@ -1,5 +1,4 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
 title: Adding Bootstrap support to your Underscore theme
