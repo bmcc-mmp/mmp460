@@ -1,9 +1,8 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Adding an additional sidebar in the Underscore theme
 ---
+## Adding an additional sidebar in the Underscore theme
 
 - Open functions.php and locate the code:
 
