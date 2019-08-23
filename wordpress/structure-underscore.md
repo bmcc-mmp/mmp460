@@ -1,9 +1,9 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: HTML Structure of an underscore template
 ---
+
+## HTML Structure of an underscore template
 
     <body class="--">
       <div id="page" class="site">
