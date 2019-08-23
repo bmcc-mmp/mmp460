@@ -10,7 +10,7 @@ site: MMP 460 Multimedia Project Lab
 Log into the WordPress dashboard by entering the following URL in the browser: yoursiteurl/wp-admin
   
 Enter the username and password that you created when you installed the site.
-!(login.PNG)
+![login](login.PNG)
 
 ### Entering content ###
 
