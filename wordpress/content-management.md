@@ -82,7 +82,7 @@ The sidebar is an optional, separate area on the page that displays the [widgets
 
 ### Adding Dynamic Features with Plugins
 
-Plugins are 3rd-party software that can be installed on a WordPress site to add features and extend its functionality. There are plugins to add relatively small features, such as slideshows and forms, as well as plugins that add extensive functionality, such as [e-commerce](https://wordpress.org/plugins/woocommerce/) or [social networking](https://wordpress.org/plugins/buddypress/). Choose plugins from the left menu to install and activate plugins. 
+Plugins are 3rd-party software that can be installed on a WordPress site to add features and extend its functionality. There are plugins to add relatively small features, such as slideshows and forms, as well as plugins that add extensive functionality, such as [e-commerce](https://wordpress.org/plugins/woocommerce/) or [social networking](https://wordpress.org/plugins/buddypress/). Choose Plugins from the left menu to install and activate plugins. 
 
 
 
