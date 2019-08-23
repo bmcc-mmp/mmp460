@@ -49,4 +49,9 @@ A theme is a set of templates that dictate the site’s interface and appearance
 
 **Setting the Main Menu**
 
-The theme dictates where and how the main menu will be displayed. Some themes don’t even support a menu, and some offer more than one, such as a main menu and a footer menu. To set the menu choose Appearance > Menus. On the left you will see the pages, posts and categories that you can choose to include in the menu. You can also add custom links to specific URLs. Use indents in the Menu Structure on the right to create dropdowns. (Dropdowns will only work if the theme includes the code to support them though.) Make sure to save the menu and give it a display location. 
+The theme dictates where and how the main menu will be displayed. Some themes don’t even support a menu, and some offer more than one, such as a main menu and a footer menu. To set the menu choose Appearance > Menus. On the left you will see the pages, posts and categories that you can choose to include in the menu. You can also add custom links to specific URLs. Use indents in the Menu Structure on the right to create dropdowns. (Dropdowns will only work if the theme includes the code to support them though.) 
+![menu](menu-structure.PNG)
+
+Make sure to save the menu and give it a display location. 
+![menu](menu-settings.PNG)
+
