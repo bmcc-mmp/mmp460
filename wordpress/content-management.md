@@ -57,3 +57,8 @@ The theme dictates where and how the main menu will be displayed. Some themes do
 Make sure to save the menu and give it a display location. 
 ![menu](menu-settings.PNG)
 
+**The sidebar**
+
+The sidebar is an optional, separate area on the page that displays the [https://wordpress.org/support/article/wordpress-widgets/](widgets), which add additional content and features with a drag-and-drop easy setup. The sidebar location and style are determined by the theme. Some themes offer more than one sidebar in different locations. To populate the sidebar, choose Appearance > Widgets. Drag any available widget to the sidebar and modify it as needed.
+
+
