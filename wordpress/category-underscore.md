@@ -1,8 +1,10 @@
 ---
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Creating a category template for Underscores themes
 ---
+
+## Creating a category template for Underscores themes
+
 
 - Duplicate archive.php and rename the duplicate file category.php.
 - Delete
