@@ -19,8 +19,8 @@ A starter theme is a shortcut to developing your own custom theme. It gives you 
 ### Customizing the Theme
 
 - [Add Bootstrap support](https://bmcc-mmp.github.io/mmp460/wordpress/bootstrap-support)
-- [HTML Structure of an underscore template](https://bmcc-mmp.github.io/mmp460/wordpress/structure-underscore)
-- [The WordPress Loop](https://bmcc-mmp.github.io/mmp460/wordpress/loop)
+- [HTML structure of an underscore template](https://bmcc-mmp.github.io/mmp460/wordpress/structure-underscore)
+- [The WordPress loop](https://bmcc-mmp.github.io/mmp460/wordpress/loop)
 - [Adding a homepage template](https://bmcc-mmp.github.io/mmp460/wordpress/homepage)
 - [Creating a home page with a slideshow and 3 columns](https://bmcc-mmp.github.io/mmp460/wordpress/multiple-menus-underscore)
 - [Linking images](https://bmcc-mmp.github.io/mmp460/wordpress/image-linking)
