@@ -2,8 +2,10 @@
 layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Bootstrap Carousel with underscores theme
 ---
+
+## Bootstrap Carousel with underscores theme
+
 Paste this code in the template of your page wherever you want the slideshow to appear. Change the category name to your category. Change inline css as needed.
 
 	<div id="carouselExample" class="carousel slide" data-ride="carousel" style="min-height:400px; background-color:#e8f0ff;">
