@@ -6,12 +6,11 @@ site: MMP 460 Multimedia Project Lab
 ## Starting with WordPress File Management ##
 
 **Logging in**
-Log into the WordPress dashboard by entering the following URL in the browser:
 
-  yoursiteurl/wp-admin
+Log into the WordPress dashboard by entering the following URL in the browser: yoursiteurl/wp-admin
   
 Enter the username and password that you created when you installed the site.
-![login.PNG]
+!(login.PNG)
 
 ### Entering content ###
 
