@@ -1,9 +1,10 @@
 ---
-layout: class
 site: MMP 460 Multimedia Project Lab
 categories: wordpress underscore
-title: Links to Posts and Pages in Templates
 ---
+
+## Links to Posts and Pages in Templates
+
 To create a link to a specific post or page from a PHP template use the following code, where the ID is the id of the page:
 
         <a href="<?php echo get_permalink(ID); ?>">link text</a>
