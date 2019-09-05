@@ -3,7 +3,7 @@ layout: default
 site: MMP 460 Multimedia Project Lab
 ---
 
-## Starting with WordPress File Management ##
+## Starting with WordPress Content Management ##
 
 **Logging in**
 
