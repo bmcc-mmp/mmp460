@@ -32,6 +32,6 @@ Examples: Bodoni, Didot, Bell, Caledonia
   </div>
 <div style="margin-bottom:2em">
 <h3>Slab Serif 1825</h3>
-<img class="alignleft size-full wp-image-602" src="https://mma215site.files.wordpress.com/2015/02/slab.gif" alt="" width="695" height="223" />Examples: ITC Lubalin Graph, Serifa, Glypha, Schadow, Clarendon, Memphis, Beton, Stymie, Rockwell.
+<img class="alignleft size-full wp-image-602" src="slab.gif" alt="" width="695" height="223" />Examples: ITC Lubalin Graph, Serifa, Glypha, Schadow, Clarendon, Memphis, Beton, Stymie, Rockwell.
 <a href="http://ilovetypography.com/2008/06/20/a-brief-history-of-type-part-5/">Read more</a>.
   </div>
